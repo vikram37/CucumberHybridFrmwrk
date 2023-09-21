@@ -8,8 +8,7 @@
     mavenVersionOption: 'Default'
     mavenAuthenticateFeed: false
     effectivePomSkip: false
-    sonarQubeRunAnalysis: falseore:
-# https://docs.microsoft.com/azure/devops/pipelines/languages/java
+    sonarQubeRunAnalysis: false
 
 trigger:
 - main
